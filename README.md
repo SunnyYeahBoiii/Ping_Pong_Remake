@@ -5,3 +5,7 @@
 ## Issues:
 - Mising UI (Point Couter and other decorative things)
 - Ball too fast = Going through every thing
+
+## Note:
+- Make sure to install "pygame"
+``` pip install pygame ```
