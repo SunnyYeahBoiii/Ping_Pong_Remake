@@ -8,4 +8,7 @@
 
 ## Note:
 - Make sure to install "pygame"
-``` pip install pygame ```
+```
+pip install pygame
+
+```
